@@ -1,2 +1,3 @@
-# hello-world
-Sample Project
+# maven-project
+
+Simple Maven Project
